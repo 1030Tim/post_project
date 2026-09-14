@@ -1,0 +1,7 @@
+neck_angle,neck_mode,knee_angle,knee_mode,timestamp,shldr_diff,hip_diff,angle_l_leg,angle_r_leg,angle_l_arm,angle_r_arm
+,,,,0.0,0.803239638137768,,Pelvis OK,Pelvis OK,,
+,,,,1.0,,,,,,
+39.04,Forward Head (Turtle Neck),179.046694216489,1.0,2.0,31.41,,,,,
+,,,,3.0,0.6,0.29,179.87871242806125,179.48494951235867,172.6911416226518,176.51625201382726
+46.57,Forward Head (Turtle Neck),175.84,1.0,4.0,18.75,,,,,
+,,,,5.0,4.26,3.72,173.71793962568225,173.24528549329023,156.90163834872965,140.28226015245522
